@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+
+/* network-bar */
+
+.network-bar{
+    color: white;
+    background-color: black;
+    height: 50px;
+    width: 650px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.network-bar h2{
+    margin-left:20px;
+    margin-top: 10px;
+}
+
+/* Your Feed */
+
+.your-feed{
+    font-size: 25px;
+    margin-left: 300px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+
+/* Content-Main */
+
+.content-main{
+    display: flex;
+}
+
+/* Column 1 */
+
+.col-1{
+    border: solid black 3px;
+    height: 260px;
+    width: 150px;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.col-1 img{
+    width: 80px;
+    margin-top: 30px;
+}
+
+.col-1 h4{
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.col-1 h3{
+    margin-top: 30px;
+    font-size: 25px;
+}
+
+
+
+
+/* Column 2 */
+
+
+.neil-m{
+    border: solid black 3px;
+    height: 150px;
+    margin-left: 30px;
+    width: 470px;
+}
+
+.nichole-k{
+    border: solid black 3px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 470px;
+}
+
+.jim-r{
+    border: solid black 3px;
+    height: 150px;
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 470px;
+}
+
+/* Neil M */
+
+.toprowneil{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.toprowneil h3{
+    font-size: 25px;
+}
+
+.toprowneil h4{
+    font-size: 25px;
+    margin-left: 160px;
+}
+
+.toprowneil button{
+    width: 60px;
+    height: 35px;
+    margin-left: 30px;
+    background-color:goldenrod;
+    box-shadow: black 4px 4px 4px;
+}
+
+.bottomrow p{
+    font-size: 22px;
+    margin-left: 30px;
+    margin-right: 40px;
+    margin-top: 20px;
+}
+
+/* Nichole */
+
+.toprownichole{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.toprownichole h3{
+    font-size: 25px;
+}
+
+.toprownichole h4{
+    font-size: 25px;
+    margin-left: 115px;
+}
+
+.toprownichole button{
+    width: 60px;
+    height: 35px;
+    margin-left: 30px;
+    background-color:goldenrod;
+    box-shadow: black 4px 4px 4px;
+}
+
+/* Jim */
+
+
+.toprowjim{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.toprowjim h3{
+    font-size: 25px;
+}
+
+.toprowjim h4{
+    font-size: 25px;
+    margin-left: 170px;
+}
+
+.toprowjim button{
+    width: 60px;
+    height: 35px;
+    margin-left: 30px;
+    background-color:goldenrod;
+    box-shadow: black 4px 4px 4px;
+}
+
+.bottomrowjim{
+    font-size: 22px;
+    margin-left: 30px;
+    margin-right: 60px;
+    margin-top: 20px;
+}
